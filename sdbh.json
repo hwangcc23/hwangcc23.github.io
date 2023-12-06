@@ -1,0 +1,49 @@
+[
+	{
+		"name": "BMT1",
+		"cards": [
+			{
+				"index": 1,
+				"seq": [
+					{"num": 12, "star": 1},
+					{"num": 15, "star": 2},
+					{"num": 1, "star": 3},
+					{"num": 18, "star": 4}
+				]
+			},
+			{
+				"index": 2,
+				"seq": [
+					{"num": 22, "star": 1},
+					{"num": 25, "star": 2},
+					{"num": 12, "star": 3},
+					{"num": 38, "star": 4}
+				]
+			}
+		]
+	},
+	{
+		"name": "BMT2",
+		"cards": [
+			{
+				"index": 1,
+				"seq": [
+					{"num": 22, "star": 1},
+					{"num": 25, "star": 2},
+					{"num": 12, "star": 3},
+					{"num": 37, "star": 3.5},
+					{"num": 38, "star": 4}
+				]
+			},
+			{
+				"index": 2,
+				"seq": [
+					{"num": 22, "star": 1},
+					{"num": 25, "star": 2},
+					{"num": 12, "star": 3},
+					{"num": 38, "star": 4}
+				]
+			}
+		]
+	}
+]
